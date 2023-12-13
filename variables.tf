@@ -1,7 +1,3 @@
-# variable "aws_profile" {
-#   type = string
-#   default = null
-# }
 variable "aws_access_key" {
   type = string
 }
